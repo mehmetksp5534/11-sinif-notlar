@@ -1,0 +1,20 @@
+1. Tema: İstatistiksel Araştırma Süreci
+  [ ] MAT.11.1.1: İki Nicel Değişkenli Veriler ve Analiz
+  [ ] MAT.11.1.2: Başkalarının Verilerini Eleştirel Değerlendirme
+2. Tema: Geometrik Şekiller
+  [ ] MAT.11.2.1: Üçgenlerde açı, benzerlik ve alan özelliklerinden yola çıkarak dörtgenlerin açı, kenar, köşegen, simetri ve alan özelliklerine ilişkin muhakeme yapabilme ve ispatlama
+  [ ] MAT.11.2.2: Özel dörtgenlerin kenar, açı, köşegen ve simetri özelliklerinden hareketle aralarındaki hiyerarşik ve nedensel ilişkileri yapılandırma
+  [ ] MAT.11.2.3: Çokgenleri içbükey ve dışbükey olarak belirleyip belirli ölçütlere göre sınıflandırma ve tasnif etme
+  [ ] MAT.11.2.4: Dışbükey çokgenlerin ve düzgün çokgenlerin kenar, açı, köşegen, simetri ve alan özelliklerine dair çıkarım yapma
+  [ ] MAT.11.2.5: Çokgenlerin ve dörtgenlerin özelliklerini içeren günlük yaşam, mimari ve sanat odaklı problemleri çözme stratejileri geliştirme
+3. Tema: Nicelikler ve Değişimler (1)
+  [ ] MAT.11.3.1: Trigonometrik referans fonksiyonların ($sinx, cosx, tanx, cotx$) nitel özelliklerini belirleme ve bu fonksiyonlardan türetilen $g(x) = k \cdot f(mx \pm r) \pm s$ formatındaki fonksiyonların grafik ve cebirsel niteliklerini muhakeme etme
+  [ ] MAT.11.3.2: Trigonometrik fonksiyonlar içeren denklemleri ve fizik, astronomi, mühendislik bağlamlı problemleri çoklu temsil (sözel, tablo, grafik, cebir) dönüşümleriyle çözme stratejileri geliştirme
+3. Tema: Nicelikler ve Değişimler (2)
+  [ ] MAT.11.3.3: Gerçek sayılarda $f(x) = a^x$ ($a>0, a\neq1$) üstel referans fonksiyonun nitel özellikleri ve bu fonksiyondan türetilen $g(x) = k \cdot f(mx \pm r) \pm s$ üstel fonksiyonların nitel özelliklerine ilişkin muhakeme yapma
+  [ ] MAT.11.3.4: Üstel fonksiyonların ters fonksiyonlarını inceleyerek logaritmik fonksiyona dair çıkarım yapma
+  [ ] MAT.11.3.5: $f(x) = \log_a x$ ($a>0, a\neq1, x>0$) logaritmik referans fonksiyonun nitel ve işlem özellikleri ile türetilen fonksiyonların özelliklerini muhakeme etme
+  [ ] MAT.11.3.6: Gerçek yaşam durumlarında üstel ve logaritmik fonksiyonlarla ifade edilen denklem ve eşitsizlik içeren problemleri çözme stratejileri geliştirme
+3. Tema: Nicelikler ve Değişimler (3)
+  [ ] MAT.11.3.7: İki veya daha fazla fonksiyonun bileşkesinden oluşan bileşke fonksiyonların bileşenlerini, ilişkilerini ve nitel özelliklerini muhakeme etme
+  [ ] MAT.11.3.8: Fonksiyonlarda toplama, çıkarma, çarpma ve bölme (dört işlem) işlemlerinin yapılabilme koşullarını inceleme ve cebirsel/grafik temsillerle yorumlama
