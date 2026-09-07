@@ -1,0 +1,14 @@
+1. Tema: Etkileşim
+    [ ] KMY.11.1.1: Enerji ve Kimyasal Tepkimelerde Hız konularını kapsayan fiziksel ve kimyasal olaylardaki enerji değişimleri, maddelerin enerji kaynağı olma potansiyelleri ile yanma tepkimelerinin incelenmesi.  
+    [ ] KMY.11.1.2: Bağ enerjileri ve standart oluşum entalpi verileri kullanılarak tepkime entalpi değişimlerinin hesaplanması.  
+    [ ] KMY.11.1.3: Çarpışma teorisi, tepkime hızının zamanla değişimi, hıza etki eden faktörler (derişim, sıcaklık, katalizör vb.) ve hız denklemlerinin oluşturulması.  
+
+2. Tema: Çeşitlilik
+    [ ] KMY.11.2.1: Denge, Asit ve Baz Çözeltilerinde Denge ile Çözünürlük Dengesi bağlamında tersinir tepkimeler, denge sabiti ifadeleri, tepkime oranı (Q) ve Le Chatelier ilkesi ile dengeyi etkileyen faktörlerin detaylandırılması.  
+    [ ] KMY.11.2.2: Saf suyun otoiyonizasyonu, Arrhenius ve Brønsted-Lowry asit-baz teorileri, kuvvetli ve zayıf asit-baz çözeltilerinde pH hesaplamaları, nötralleşme ile titrasyon işlemlerinin ele alınması.  
+    [ ] KMY.11.2.3: Suda az çözünen tuzların molar çözünürlükleri, çözünürlük çarpımı (Kc\c​c\c​​) ve çözünürlüğe etki eden faktörlerin incelenmesi.  
+
+3. Tema: Sürdürülebilirlik
+    [ ] KMY.11.3.1: Nanoteknoloji ve Sürdürülebilirlik kapsamında evsel atıklardan fermantasyon yöntemiyle yeşil hidrojen enerjisi elde etme süreçlerine yönelik hipotezler kurulması.  
+    [ ] KMY.11.3.2: Nanoteknolojik ürünlerin sağlık, etik, güvenlik ve sürdürülebilirlik bağlamında potansiyel faydaları ile olası zararlarının eleştirel bir bakış açısıyla değerlendirilmesi.  
+    [ ] KMY.11.3.3: Mikroplastiklerin ve nanoplastiklerin çevre, sağlık, gıda ve malzeme bilimi üzerindeki etkilerinin sorgulanması.
